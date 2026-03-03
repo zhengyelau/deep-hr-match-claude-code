@@ -1,5 +1,5 @@
 import React from 'react'
-import StLogo from '../assets/ST-engineering-logo.png'
+import StLogo from '../assets/st-engineering-logo.png'
 import { Brain } from 'lucide-react'
 
 const company = {
